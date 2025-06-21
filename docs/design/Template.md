@@ -1,7 +1,7 @@
 ```
 package main
 
-import "cross"
+import "github.com/obj-p/cross/state"
 
 template Person(person Person) {
     cross.useState()
